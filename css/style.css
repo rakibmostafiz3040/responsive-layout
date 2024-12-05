@@ -1,0 +1,22 @@
+body{
+  background-color: aqua;
+}
+.images{
+  padding: 50px 0;
+}
+.container{
+  overflow: hidden;
+  margin: 0 auto;
+  width: 1330px;
+  /*border: 1px solid red;*/
+}
+.img_item{
+  box-sizing: border-box;
+  float: left;
+  width: 25%;
+  padding: 0 5px;
+  margin: 5px auto;
+}
+.img_item img{
+  width: 100%;
+}
